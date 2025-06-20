@@ -1,0 +1,116 @@
+--- Evaluation for: BERT Model ---
+
+Predictions on independent sentences:
+Pred: Negative | True: Negative | I can't believe I wasted two hours on this.
+Pred: Positive | True: Positive | Absolutely stunning visuals and sound.
+Pred: Negative | True: Negative | Nothing made sense from start to finish.
+Pred: Positive | True: Positive | I would gladly watch it again.
+Pred: Negative | True: Negative | The characters were flat and uninteresting.
+Pred: Positive | True: Positive | A truly heartwarming story.
+Pred: Positive | True: Negative | Regretted not walking out halfway.
+Pred: Positive | True: Positive | The pacing was perfect throughout.
+Pred: Negative | True: Negative | It felt like a school project.
+Pred: Positive | True: Positive | One of the best experiences I've had recently.
+Pred: Positive | True: Negative | I didn't expect much, and I was right.
+Pred: Positive | True: Positive | Everything came together beautifully.
+Pred: Negative | True: Negative | It lacked soul and depth.
+Pred: Positive | True: Positive | A breath of fresh air!
+Pred: Negative | True: Negative | I've seen better student films.
+Pred: Positive | True: Positive | Brilliantly acted and directed.
+Pred: Negative | True: Negative | It was just okay, nothing more.
+Pred: Positive | True: Positive | Truly inspiring and thoughtful.
+Pred: Negative | True: Negative | Worst decision to spend money on this.
+Pred: Positive | True: Positive | Delivers on every level.
+Pred: Negative | True: Negative | I nearly fell asleep watching it.
+Pred: Positive | True: Positive | Left me with tears of joy.
+Pred: Negative | True: Negative | Painfully dull and repetitive.
+Pred: Positive | True: Positive | I felt connected to every character.
+Pred: Negative | True: Negative | Should've trusted the negative reviews.
+Pred: Positive | True: Positive | Exceeded all expectations!
+Pred: Negative | True: Negative | The dialogue felt forced and fake.
+Pred: Positive | True: Positive | I'll remember this for years to come.
+Pred: Negative | True: Negative | Just another generic story.
+Pred: Positive | True: Positive | Packed with emotion and honesty.
+Pred: Negative | True: Negative | Everything was overacted.
+Pred: Positive | True: Positive | An instant favorite of mine.
+Pred: Negative | True: Negative | Confusing and messy throughout.
+Pred: Positive | True: Positive | The cinematography was breathtaking.
+Pred: Positive | True: Negative | Avoid at all costs.
+Pred: Positive | True: Positive | Finally, something original!
+Pred: Negative | True: Negative | I couldn’t finish it.
+Pred: Positive | True: Positive | Perfect from start to finish.
+Pred: Negative | True: Negative | So bad it’s almost good.
+Pred: Positive | True: Positive | Uplifting and magical.
+Pred: Negative | True: Negative | The twist was completely predictable.
+Pred: Positive | True: Positive | Left me speechless in the best way.
+Pred: Negative | True: Negative | Cliché after cliché.
+Pred: Positive | True: Positive | Creative and full of surprises.
+Pred: Negative | True: Negative | What a waste of potential.
+Pred: Positive | True: Positive | Full of charm and wit.
+Pred: Negative | True: Negative | Annoyingly loud soundtrack.
+Pred: Positive | True: Positive | Simply delightful!
+Pred: Negative | True: Negative | The plot went nowhere.
+Pred: Positive | True: Positive | A total joy to watch.
+Pred: Positive | True: Negative | I’ve never cringed so much.
+Pred: Positive | True: Positive | Soothing and beautiful tone.
+Pred: Negative | True: Negative | Disappointing in every way.
+Pred: Positive | True: Positive | Deserves an award.
+Pred: Negative | True: Negative | Awkward performances throughout.
+Pred: Positive | True: Positive | A rare gem these days.
+Pred: Negative | True: Negative | I expected more from this director.
+Pred: Positive | True: Positive | Left me smiling the whole time.
+Pred: Negative | True: Negative | Boring, dry, and uneventful.
+Pred: Positive | True: Positive | Smart, funny, and touching.
+Pred: Negative | True: Negative | Felt like a chore to sit through.
+Pred: Positive | True: Positive | Absolutely nailed it.
+Pred: Negative | True: Negative | Zero chemistry between the leads.
+Pred: Positive | True: Positive | Full of heart and meaning.
+Pred: Negative | True: Negative | Not even my dog enjoyed it.
+Pred: Positive | True: Positive | I didn’t want it to end.
+Pred: Negative | True: Negative | Cringe-worthy in all the wrong ways.
+Pred: Positive | True: Positive | Memorable and masterfully told.
+Pred: Negative | True: Positive | Felt rushed and incomplete.
+Pred: Positive | True: Negative | A celebration of storytelling.
+Pred: Negative | True: Positive | I'd rather do taxes than watch this again.
+Pred: Positive | True: Negative | Hilarious from beginning to end.
+Pred: Positive | True: Positive | Left me emotionally drained — in a good way.
+Pred: Negative | True: Negative | Might be the worst thing I've ever seen.
+Pred: Positive | True: Positive | This film restored my faith in cinema.
+Pred: Negative | True: Negative | Cheap effects and poor editing.
+Pred: Positive | True: Positive | A deeply moving experience.
+Pred: Negative | True: Negative | Embarrassingly bad.
+Pred: Positive | True: Positive | Couldn't stop smiling the whole time.
+Pred: Negative | True: Negative | They clearly didn’t care about quality.
+Pred: Positive | True: Positive | Highly recommended!
+Pred: Negative | True: Negative | Too many plot holes to count.
+Pred: Positive | True: Positive | Incredibly well written.
+Pred: Negative | True: Negative | Poorly thought-out mess.
+Pred: Positive | True: Positive | An emotional rollercoaster.
+Pred: Negative | True: Negative | Visually noisy and confusing.
+Pred: Positive | True: Positive | Soft, gentle, and powerful.
+Pred: Negative | True: Negative | Why did I even watch this?
+Pred: Positive | True: Positive | Unforgettable in the best sense.
+Pred: Negative | True: Negative | Terribly disappointing.
+Pred: Positive | True: Positive | It gave me chills.
+Pred: Negative | True: Negative | Felt more like a parody.
+Pred: Positive | True: Positive | Exactly what I needed today.
+Pred: Negative | True: Negative | Not as clever as it thinks it is.
+Pred: Positive | True: Positive | It spoke directly to my heart.
+Pred: Negative | True: Positive | Wish I had skipped it.
+Pred: Positive | True: Negative | A masterclass in subtlety.
+Pred: Negative | True: Positive | The acting was unbearable.
+Pred: Positive | True: Negative | Loved every second of it.
+Pred: Negative | True: Positive | Just plain bad.
+Pred: Positive | True: Negative | It’s rare to see something this sincere.
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.89      0.82      0.85        50
+           1       0.84      0.90      0.87        51
+
+    accuracy                           0.86       101
+   macro avg       0.86      0.86      0.86       101
+weighted avg       0.86      0.86      0.86       101
+
+Accuracy on independent test set: 0.86
