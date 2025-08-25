@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Notebooks
+test.ipynb
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Model weights / large files
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Hugging Face cache
+~/.cache/huggingface/
+huggingface/
+
+# FastAPI / Uvicorn
+*.db
+*.sqlite
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# Assets
+assets/
