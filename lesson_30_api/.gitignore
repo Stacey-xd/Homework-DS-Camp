@@ -37,6 +37,3 @@ huggingface/
 
 # PyCharm
 .idea/
-
-# Assets
-assets/
